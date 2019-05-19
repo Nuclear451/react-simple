@@ -18,4 +18,4 @@ var myObj = {
             that.anotherSpecialFunction();
         })
     }
-}
+};
